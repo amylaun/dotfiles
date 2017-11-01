@@ -1,5 +1,5 @@
 #
-#    @xtianjohns gitconfig
+#    @amylaun gitconfig
 #
 #    tabstop: 6 (git default)
 #    comments: #,;
@@ -11,8 +11,8 @@
 
 [user]
 
-      name      = Christian Johns
-      email     = xtianjohns@connate.tech
+      name      = Amy Laun
+      email     = amylaun@gmail.com
 
 [alias]
 
